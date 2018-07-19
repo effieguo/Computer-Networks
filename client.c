@@ -3,7 +3,7 @@
 //  client.c
 //
 //  Created by Yang Guo on 5/29/18.
-//  Student ID: 1425884
+//
 //
 #include <stdio.h>
 #include <sys/socket.h>
